@@ -1,4 +1,3 @@
-/
  * Batch Frame Rate Setter for Selected Compositions
  * --------------------------------------------------
  * Description:
